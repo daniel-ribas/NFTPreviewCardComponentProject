@@ -1,0 +1,42 @@
+@media(min-width: 355px) {
+    .underline-maior {
+        display: block;
+    }
+}
+
+@media(max-width: 354px) {
+    .card {
+        width: 327px;
+        height: 543px;
+    }
+
+    .nft-img {
+        width: 278px;
+        height: 278px;
+    }
+
+    h1 {
+        width: 278px;
+    }
+
+    .description {
+        width: 278px;
+    }
+
+    .eth-price {
+        width: 278px;
+    }
+
+    .underline-menor {
+        display: block;
+    }
+
+    .profile-section {
+        width: 278px;
+    }
+
+    .attribution {
+        font-size: 10px;  
+    }
+    
+}
